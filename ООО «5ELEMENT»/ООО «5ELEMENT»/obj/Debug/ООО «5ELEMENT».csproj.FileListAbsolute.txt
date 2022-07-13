@@ -1,0 +1,331 @@
+C:\Users\iddqd\source\repos\ООО «5ELEMENT»\ООО «5ELEMENT»\obj\Debug\ООО «5ELEMENT».csprojAssemblyReference.cache
+C:\Users\iddqd\source\repos\ООО «5ELEMENT»\ООО «5ELEMENT»\obj\Debug\Pages\Authorization\Page_Authorization_Table.g.cs
+C:\Users\iddqd\source\repos\ООО «5ELEMENT»\ООО «5ELEMENT»\obj\Debug\Pages\Authorization\Page_Authorization_User.g.cs
+C:\Users\iddqd\source\repos\ООО «5ELEMENT»\ООО «5ELEMENT»\obj\Debug\Pages\Employees\Admin\Dishes\Page_Dishes_View.g.cs
+C:\Users\iddqd\source\repos\ООО «5ELEMENT»\ООО «5ELEMENT»\obj\Debug\Pages\Employees\Admin\Dishes\Page_Dish_Work.g.cs
+C:\Users\iddqd\source\repos\ООО «5ELEMENT»\ООО «5ELEMENT»\obj\Debug\Pages\Employees\Admin\Employees\Page_Employee_View.g.cs
+C:\Users\iddqd\source\repos\ООО «5ELEMENT»\ООО «5ELEMENT»\obj\Debug\Pages\Employees\Admin\Employees\Page_Employee_Work.g.cs
+C:\Users\iddqd\source\repos\ООО «5ELEMENT»\ООО «5ELEMENT»\obj\Debug\Pages\Employees\Admin\MainMenu\Page_Frames_Template.g.cs
+C:\Users\iddqd\source\repos\ООО «5ELEMENT»\ООО «5ELEMENT»\obj\Debug\Pages\Employees\Admin\MainMenu\Page_MainMenu.g.cs
+C:\Users\iddqd\source\repos\ООО «5ELEMENT»\ООО «5ELEMENT»\obj\Debug\Pages\Employees\Admin\StopList\Page_StopList_View.g.cs
+C:\Users\iddqd\source\repos\ООО «5ELEMENT»\ООО «5ELEMENT»\obj\Debug\Pages\Employees\Stockman\Page_Ingridients.g.cs
+C:\Users\iddqd\source\repos\ООО «5ELEMENT»\ООО «5ELEMENT»\obj\Debug\Pages\Employees\Stockman\Page_PeriodReport.g.cs
+C:\Users\iddqd\source\repos\ООО «5ELEMENT»\ООО «5ELEMENT»\obj\Debug\Pages\Tables\Page_Menu.g.cs
+C:\Users\iddqd\source\repos\ООО «5ELEMENT»\ООО «5ELEMENT»\obj\Debug\Pages\Tables\Page_Order_Work.g.cs
+C:\Users\iddqd\source\repos\ООО «5ELEMENT»\ООО «5ELEMENT»\obj\Debug\Windows\Window_Admin.g.cs
+C:\Users\iddqd\source\repos\ООО «5ELEMENT»\ООО «5ELEMENT»\obj\Debug\Windows\Window_Authorization.g.cs
+C:\Users\iddqd\source\repos\ООО «5ELEMENT»\ООО «5ELEMENT»\obj\Debug\Windows\Window_Stockman.g.cs
+C:\Users\iddqd\source\repos\ООО «5ELEMENT»\ООО «5ELEMENT»\obj\Debug\Windows\Window_Table.g.cs
+C:\Users\iddqd\source\repos\ООО «5ELEMENT»\ООО «5ELEMENT»\obj\Debug\App.g.cs
+C:\Users\iddqd\source\repos\ООО «5ELEMENT»\ООО «5ELEMENT»\obj\Debug\ООО «5ELEMENT»_MarkupCompile.cache
+C:\Users\iddqd\source\repos\ООО «5ELEMENT»\ООО «5ELEMENT»\obj\Debug\ООО «5ELEMENT»_MarkupCompile.lref
+C:\Users\iddqd\source\repos\ООО «5ELEMENT»\ООО «5ELEMENT»\bin\Debug\ООО «5ELEMENT».exe.config
+C:\Users\iddqd\source\repos\ООО «5ELEMENT»\ООО «5ELEMENT»\bin\Debug\ООО «5ELEMENT».exe
+C:\Users\iddqd\source\repos\ООО «5ELEMENT»\ООО «5ELEMENT»\bin\Debug\ООО «5ELEMENT».pdb
+C:\Users\iddqd\source\repos\ООО «5ELEMENT»\ООО «5ELEMENT»\obj\Debug\Pages\Authorization\Page_Authorization_Table.baml
+C:\Users\iddqd\source\repos\ООО «5ELEMENT»\ООО «5ELEMENT»\obj\Debug\Pages\Authorization\Page_Authorization_User.baml
+C:\Users\iddqd\source\repos\ООО «5ELEMENT»\ООО «5ELEMENT»\obj\Debug\Pages\Employees\Admin\Dishes\Page_Dishes_View.baml
+C:\Users\iddqd\source\repos\ООО «5ELEMENT»\ООО «5ELEMENT»\obj\Debug\Pages\Employees\Admin\Dishes\Page_Dish_Work.baml
+C:\Users\iddqd\source\repos\ООО «5ELEMENT»\ООО «5ELEMENT»\obj\Debug\Pages\Employees\Admin\Employees\Page_Employee_View.baml
+C:\Users\iddqd\source\repos\ООО «5ELEMENT»\ООО «5ELEMENT»\obj\Debug\Pages\Employees\Admin\Employees\Page_Employee_Work.baml
+C:\Users\iddqd\source\repos\ООО «5ELEMENT»\ООО «5ELEMENT»\obj\Debug\Pages\Employees\Admin\MainMenu\Page_Frames_Template.baml
+C:\Users\iddqd\source\repos\ООО «5ELEMENT»\ООО «5ELEMENT»\obj\Debug\Pages\Employees\Admin\MainMenu\Page_MainMenu.baml
+C:\Users\iddqd\source\repos\ООО «5ELEMENT»\ООО «5ELEMENT»\obj\Debug\Pages\Employees\Admin\StopList\Page_StopList_View.baml
+C:\Users\iddqd\source\repos\ООО «5ELEMENT»\ООО «5ELEMENT»\obj\Debug\Pages\Employees\Stockman\Page_Ingridients.baml
+C:\Users\iddqd\source\repos\ООО «5ELEMENT»\ООО «5ELEMENT»\obj\Debug\Pages\Employees\Stockman\Page_PeriodReport.baml
+C:\Users\iddqd\source\repos\ООО «5ELEMENT»\ООО «5ELEMENT»\obj\Debug\Pages\Tables\Page_Menu.baml
+C:\Users\iddqd\source\repos\ООО «5ELEMENT»\ООО «5ELEMENT»\obj\Debug\Pages\Tables\Page_Order_Work.baml
+C:\Users\iddqd\source\repos\ООО «5ELEMENT»\ООО «5ELEMENT»\obj\Debug\Styles.baml
+C:\Users\iddqd\source\repos\ООО «5ELEMENT»\ООО «5ELEMENT»\obj\Debug\Windows\Window_Admin.baml
+C:\Users\iddqd\source\repos\ООО «5ELEMENT»\ООО «5ELEMENT»\obj\Debug\Windows\Window_Authorization.baml
+C:\Users\iddqd\source\repos\ООО «5ELEMENT»\ООО «5ELEMENT»\obj\Debug\Windows\Window_Stockman.baml
+C:\Users\iddqd\source\repos\ООО «5ELEMENT»\ООО «5ELEMENT»\obj\Debug\Windows\Window_Table.baml
+C:\Users\iddqd\source\repos\ООО «5ELEMENT»\ООО «5ELEMENT»\obj\Debug\ООО «5ELEMENT».g.resources
+C:\Users\iddqd\source\repos\ООО «5ELEMENT»\ООО «5ELEMENT»\obj\Debug\ООО__5ELEMENT_.Properties.Resources.resources
+C:\Users\iddqd\source\repos\ООО «5ELEMENT»\ООО «5ELEMENT»\obj\Debug\ООО «5ELEMENT».csproj.GenerateResource.cache
+C:\Users\iddqd\source\repos\ООО «5ELEMENT»\ООО «5ELEMENT»\obj\Debug\ООО «5ELEMENT».csproj.CoreCompileInputs.cache
+C:\Users\iddqd\source\repos\ООО «5ELEMENT»\ООО «5ELEMENT»\obj\Debug\ООО «5ELEMENT».exe
+C:\Users\iddqd\source\repos\ООО «5ELEMENT»\ООО «5ELEMENT»\obj\Debug\ООО «5ELEMENT».pdb
+C:\Users\iddqd\source\repos\ООО «5ELEMENT»\ООО «5ELEMENT»\obj\Debug\Resources\SystemResources\DishTemplate.g.cs
+C:\Users\iddqd\source\repos\ООО «5ELEMENT»\ООО «5ELEMENT»\obj\Debug\Resources\SystemResources\DishTemplate.baml
+C:\Users\iddqd\source\repos\ООО «5ELEMENT»\ООО «5ELEMENT»\obj\Debug\Resources\SystemResources\EmployeeTemplate.g.cs
+C:\Users\iddqd\source\repos\ООО «5ELEMENT»\ООО «5ELEMENT»\obj\Debug\Resources\SystemResources\EmployeeTemplate.baml
+C:\Users\iddqd\source\repos\ООО «5ELEMENT»\ООО «5ELEMENT»\obj\Debug\Resources\SystemResources\DishViewTemplate.g.cs
+C:\Users\iddqd\source\repos\ООО «5ELEMENT»\ООО «5ELEMENT»\obj\Debug\Resources\SystemResources\DishViewTemplate.baml
+C:\Users\Тимофей\Desktop\ООО «5ELEMENT»\ООО «5ELEMENT»\bin\Debug\ООО «5ELEMENT».exe.config
+C:\Users\Тимофей\Desktop\ООО «5ELEMENT»\ООО «5ELEMENT»\bin\Debug\ООО «5ELEMENT».exe
+C:\Users\Тимофей\Desktop\ООО «5ELEMENT»\ООО «5ELEMENT»\bin\Debug\ООО «5ELEMENT».pdb
+C:\Users\Тимофей\Desktop\ООО «5ELEMENT»\ООО «5ELEMENT»\obj\Debug\Pages\Authorization\Page_Authorization_Table.g.cs
+C:\Users\Тимофей\Desktop\ООО «5ELEMENT»\ООО «5ELEMENT»\obj\Debug\Pages\Authorization\Page_Authorization_User.g.cs
+C:\Users\Тимофей\Desktop\ООО «5ELEMENT»\ООО «5ELEMENT»\obj\Debug\Pages\Employees\Admin\Dishes\Page_Dishes_View.g.cs
+C:\Users\Тимофей\Desktop\ООО «5ELEMENT»\ООО «5ELEMENT»\obj\Debug\Pages\Employees\Admin\Dishes\Page_Dish_Work.g.cs
+C:\Users\Тимофей\Desktop\ООО «5ELEMENT»\ООО «5ELEMENT»\obj\Debug\Pages\Employees\Admin\Employees\Page_Employee_View.g.cs
+C:\Users\Тимофей\Desktop\ООО «5ELEMENT»\ООО «5ELEMENT»\obj\Debug\Pages\Employees\Admin\Employees\Page_Employee_Work.g.cs
+C:\Users\Тимофей\Desktop\ООО «5ELEMENT»\ООО «5ELEMENT»\obj\Debug\Pages\Employees\Admin\MainMenu\Page_Frames_Template.g.cs
+C:\Users\Тимофей\Desktop\ООО «5ELEMENT»\ООО «5ELEMENT»\obj\Debug\Pages\Employees\Admin\MainMenu\Page_MainMenu.g.cs
+C:\Users\Тимофей\Desktop\ООО «5ELEMENT»\ООО «5ELEMENT»\obj\Debug\Pages\Employees\Admin\StopList\Page_StopList_View.g.cs
+C:\Users\Тимофей\Desktop\ООО «5ELEMENT»\ООО «5ELEMENT»\obj\Debug\Pages\Employees\Stockman\Page_PeriodReport.g.cs
+C:\Users\Тимофей\Desktop\ООО «5ELEMENT»\ООО «5ELEMENT»\obj\Debug\Pages\Tables\Page_Menu.g.cs
+C:\Users\Тимофей\Desktop\ООО «5ELEMENT»\ООО «5ELEMENT»\obj\Debug\Pages\Tables\Page_Order_Work.g.cs
+C:\Users\Тимофей\Desktop\ООО «5ELEMENT»\ООО «5ELEMENT»\obj\Debug\Resources\SystemResources\DishTemplate.g.cs
+C:\Users\Тимофей\Desktop\ООО «5ELEMENT»\ООО «5ELEMENT»\obj\Debug\Resources\SystemResources\DishViewTemplate.g.cs
+C:\Users\Тимофей\Desktop\ООО «5ELEMENT»\ООО «5ELEMENT»\obj\Debug\Resources\SystemResources\EmployeeTemplate.g.cs
+C:\Users\Тимофей\Desktop\ООО «5ELEMENT»\ООО «5ELEMENT»\obj\Debug\Windows\Window_Admin.g.cs
+C:\Users\Тимофей\Desktop\ООО «5ELEMENT»\ООО «5ELEMENT»\obj\Debug\Windows\Window_Authorization.g.cs
+C:\Users\Тимофей\Desktop\ООО «5ELEMENT»\ООО «5ELEMENT»\obj\Debug\Windows\Window_Stockman.g.cs
+C:\Users\Тимофей\Desktop\ООО «5ELEMENT»\ООО «5ELEMENT»\obj\Debug\Windows\Window_Table.g.cs
+C:\Users\Тимофей\Desktop\ООО «5ELEMENT»\ООО «5ELEMENT»\obj\Debug\App.g.cs
+C:\Users\Тимофей\Desktop\ООО «5ELEMENT»\ООО «5ELEMENT»\obj\Debug\ООО «5ELEMENT»_MarkupCompile.cache
+C:\Users\Тимофей\Desktop\ООО «5ELEMENT»\ООО «5ELEMENT»\obj\Debug\ООО «5ELEMENT»_MarkupCompile.lref
+C:\Users\Тимофей\Desktop\ООО «5ELEMENT»\ООО «5ELEMENT»\obj\Debug\Pages\Authorization\Page_Authorization_Table.baml
+C:\Users\Тимофей\Desktop\ООО «5ELEMENT»\ООО «5ELEMENT»\obj\Debug\Pages\Authorization\Page_Authorization_User.baml
+C:\Users\Тимофей\Desktop\ООО «5ELEMENT»\ООО «5ELEMENT»\obj\Debug\Pages\Employees\Admin\Dishes\Page_Dishes_View.baml
+C:\Users\Тимофей\Desktop\ООО «5ELEMENT»\ООО «5ELEMENT»\obj\Debug\Pages\Employees\Admin\Dishes\Page_Dish_Work.baml
+C:\Users\Тимофей\Desktop\ООО «5ELEMENT»\ООО «5ELEMENT»\obj\Debug\Pages\Employees\Admin\Employees\Page_Employee_View.baml
+C:\Users\Тимофей\Desktop\ООО «5ELEMENT»\ООО «5ELEMENT»\obj\Debug\Pages\Employees\Admin\Employees\Page_Employee_Work.baml
+C:\Users\Тимофей\Desktop\ООО «5ELEMENT»\ООО «5ELEMENT»\obj\Debug\Pages\Employees\Admin\MainMenu\Page_Frames_Template.baml
+C:\Users\Тимофей\Desktop\ООО «5ELEMENT»\ООО «5ELEMENT»\obj\Debug\Pages\Employees\Admin\MainMenu\Page_MainMenu.baml
+C:\Users\Тимофей\Desktop\ООО «5ELEMENT»\ООО «5ELEMENT»\obj\Debug\Pages\Employees\Admin\StopList\Page_StopList_View.baml
+C:\Users\Тимофей\Desktop\ООО «5ELEMENT»\ООО «5ELEMENT»\obj\Debug\Pages\Employees\Stockman\Page_PeriodReport.baml
+C:\Users\Тимофей\Desktop\ООО «5ELEMENT»\ООО «5ELEMENT»\obj\Debug\Pages\Tables\Page_Menu.baml
+C:\Users\Тимофей\Desktop\ООО «5ELEMENT»\ООО «5ELEMENT»\obj\Debug\Pages\Tables\Page_Order_Work.baml
+C:\Users\Тимофей\Desktop\ООО «5ELEMENT»\ООО «5ELEMENT»\obj\Debug\Resources\SystemResources\DishTemplate.baml
+C:\Users\Тимофей\Desktop\ООО «5ELEMENT»\ООО «5ELEMENT»\obj\Debug\Resources\SystemResources\DishViewTemplate.baml
+C:\Users\Тимофей\Desktop\ООО «5ELEMENT»\ООО «5ELEMENT»\obj\Debug\Resources\SystemResources\EmployeeTemplate.baml
+C:\Users\Тимофей\Desktop\ООО «5ELEMENT»\ООО «5ELEMENT»\obj\Debug\Styles.baml
+C:\Users\Тимофей\Desktop\ООО «5ELEMENT»\ООО «5ELEMENT»\obj\Debug\Windows\Window_Admin.baml
+C:\Users\Тимофей\Desktop\ООО «5ELEMENT»\ООО «5ELEMENT»\obj\Debug\Windows\Window_Authorization.baml
+C:\Users\Тимофей\Desktop\ООО «5ELEMENT»\ООО «5ELEMENT»\obj\Debug\Windows\Window_Stockman.baml
+C:\Users\Тимофей\Desktop\ООО «5ELEMENT»\ООО «5ELEMENT»\obj\Debug\Windows\Window_Table.baml
+C:\Users\Тимофей\Desktop\ООО «5ELEMENT»\ООО «5ELEMENT»\obj\Debug\ООО «5ELEMENT».g.resources
+C:\Users\Тимофей\Desktop\ООО «5ELEMENT»\ООО «5ELEMENT»\obj\Debug\ООО__5ELEMENT_.Properties.Resources.resources
+C:\Users\Тимофей\Desktop\ООО «5ELEMENT»\ООО «5ELEMENT»\obj\Debug\ООО «5ELEMENT».csproj.GenerateResource.cache
+C:\Users\Тимофей\Desktop\ООО «5ELEMENT»\ООО «5ELEMENT»\obj\Debug\ООО «5ELEMENT».csproj.CoreCompileInputs.cache
+C:\Users\Тимофей\Desktop\ООО «5ELEMENT»\ООО «5ELEMENT»\obj\Debug\ООО «5ELEMENT».exe
+C:\Users\Тимофей\Desktop\ООО «5ELEMENT»\ООО «5ELEMENT»\obj\Debug\ООО «5ELEMENT».pdb
+C:\Users\Тимофей\Desktop\ООО «5ELEMENT»\ООО «5ELEMENT»\obj\Debug\Pages\Employees\Admin\Dishes\Page_Dish_Ingridients.g.cs
+C:\Users\Тимофей\Desktop\ООО «5ELEMENT»\ООО «5ELEMENT»\obj\Debug\Resources\SystemResources\IngridientTemplate.g.cs
+C:\Users\Тимофей\Desktop\ООО «5ELEMENT»\ООО «5ELEMENT»\obj\Debug\Pages\Employees\Admin\Dishes\Page_Dish_Ingridients.baml
+C:\Users\Тимофей\Desktop\ООО «5ELEMENT»\ООО «5ELEMENT»\obj\Debug\Resources\SystemResources\IngridientTemplate.baml
+C:\Users\Тимофей\Desktop\ООО «5ELEMENT»\ООО «5ELEMENT»\obj\Debug\Pages\Employees\Stockman\Ingridients\Page_Ingridients_View.g.cs
+C:\Users\Тимофей\Desktop\ООО «5ELEMENT»\ООО «5ELEMENT»\obj\Debug\Pages\Employees\Stockman\Ingridients\Page_Ingridients_Work.g.cs
+C:\Users\Тимофей\Desktop\ООО «5ELEMENT»\ООО «5ELEMENT»\obj\Debug\Pages\Employees\Stockman\MainMenu\Page_Frames.g.cs
+C:\Users\Тимофей\Desktop\ООО «5ELEMENT»\ООО «5ELEMENT»\obj\Debug\Pages\Employees\Stockman\Ingridients\Page_Ingridients_View.baml
+C:\Users\Тимофей\Desktop\ООО «5ELEMENT»\ООО «5ELEMENT»\obj\Debug\Pages\Employees\Stockman\Ingridients\Page_Ingridients_Work.baml
+C:\Users\Тимофей\Desktop\ООО «5ELEMENT»\ООО «5ELEMENT»\obj\Debug\Pages\Employees\Stockman\MainMenu\Page_Frames.baml
+C:\Users\Тимофей\Desktop\ООО «5ELEMENT»\ООО «5ELEMENT»\obj\Debug\Pages\Employees\Stockman\MainMenu\Page_MainMenu.g.cs
+C:\Users\Тимофей\Desktop\ООО «5ELEMENT»\ООО «5ELEMENT»\obj\Debug\Pages\Employees\Stockman\MainMenu\Page_MainMenu.baml
+C:\Users\Тимофей\Desktop\ООО «5ELEMENT»\ООО «5ELEMENT»\obj\Debug\Resources\SystemResources\IngridientViewTemplate.g.cs
+C:\Users\Тимофей\Desktop\ООО «5ELEMENT»\ООО «5ELEMENT»\obj\Debug\Resources\SystemResources\IngridientViewTemplate.baml
+C:\Users\Тимофей\Desktop\ООО «5ELEMENT»\ООО «5ELEMENT»\obj\Debug\Pages\NoDataBase\Page_NoDataBase.g.cs
+C:\Users\Тимофей\Desktop\ООО «5ELEMENT»\ООО «5ELEMENT»\obj\Debug\Pages\NoDataBase\Page_NoDataBase.baml
+C:\Users\Тимофей\Desktop\ООО «5ELEMENT»\ООО «5ELEMENT»\obj\Debug\ООО «5ELEMENT».csproj.AssemblyReference.cache
+E:\3й курс\МДК\Проекты\Курсовая\ООО «5ELEMENT»\ООО «5ELEMENT»\bin\Debug\ООО «5ELEMENT».exe.config
+E:\3й курс\МДК\Проекты\Курсовая\ООО «5ELEMENT»\ООО «5ELEMENT»\bin\Debug\ООО «5ELEMENT».exe
+E:\3й курс\МДК\Проекты\Курсовая\ООО «5ELEMENT»\ООО «5ELEMENT»\bin\Debug\ООО «5ELEMENT».pdb
+E:\3й курс\МДК\Проекты\Курсовая\ООО «5ELEMENT»\ООО «5ELEMENT»\obj\Debug\ООО «5ELEMENT».csproj.SuggestedBindingRedirects.cache
+E:\3й курс\МДК\Проекты\Курсовая\ООО «5ELEMENT»\ООО «5ELEMENT»\obj\Debug\Pages\Authorization\Page_Authorization_Table.g.cs
+E:\3й курс\МДК\Проекты\Курсовая\ООО «5ELEMENT»\ООО «5ELEMENT»\obj\Debug\Pages\Authorization\Page_Authorization_User.g.cs
+E:\3й курс\МДК\Проекты\Курсовая\ООО «5ELEMENT»\ООО «5ELEMENT»\obj\Debug\Pages\Employees\Admin\Dishes\Page_Dishes_View.g.cs
+E:\3й курс\МДК\Проекты\Курсовая\ООО «5ELEMENT»\ООО «5ELEMENT»\obj\Debug\Pages\Employees\Admin\Dishes\Page_Dish_Ingridients.g.cs
+E:\3й курс\МДК\Проекты\Курсовая\ООО «5ELEMENT»\ООО «5ELEMENT»\obj\Debug\Pages\Employees\Admin\Dishes\Page_Dish_Work.g.cs
+E:\3й курс\МДК\Проекты\Курсовая\ООО «5ELEMENT»\ООО «5ELEMENT»\obj\Debug\Pages\Employees\Admin\Employees\Page_Employee_View.g.cs
+E:\3й курс\МДК\Проекты\Курсовая\ООО «5ELEMENT»\ООО «5ELEMENT»\obj\Debug\Pages\Employees\Admin\Employees\Page_Employee_Work.g.cs
+E:\3й курс\МДК\Проекты\Курсовая\ООО «5ELEMENT»\ООО «5ELEMENT»\obj\Debug\Pages\Employees\Admin\MainMenu\Page_Frames_Template.g.cs
+E:\3й курс\МДК\Проекты\Курсовая\ООО «5ELEMENT»\ООО «5ELEMENT»\obj\Debug\Pages\Employees\Admin\MainMenu\Page_MainMenu.g.cs
+E:\3й курс\МДК\Проекты\Курсовая\ООО «5ELEMENT»\ООО «5ELEMENT»\obj\Debug\Pages\Employees\Admin\StopList\Page_StopList_View.g.cs
+E:\3й курс\МДК\Проекты\Курсовая\ООО «5ELEMENT»\ООО «5ELEMENT»\obj\Debug\Pages\Employees\Stockman\Ingridients\Page_Ingridients_View.g.cs
+E:\3й курс\МДК\Проекты\Курсовая\ООО «5ELEMENT»\ООО «5ELEMENT»\obj\Debug\Pages\Employees\Stockman\Ingridients\Page_Ingridients_Work.g.cs
+E:\3й курс\МДК\Проекты\Курсовая\ООО «5ELEMENT»\ООО «5ELEMENT»\obj\Debug\Pages\Employees\Stockman\MainMenu\Page_Frames.g.cs
+E:\3й курс\МДК\Проекты\Курсовая\ООО «5ELEMENT»\ООО «5ELEMENT»\obj\Debug\Pages\Employees\Stockman\MainMenu\Page_MainMenu.g.cs
+E:\3й курс\МДК\Проекты\Курсовая\ООО «5ELEMENT»\ООО «5ELEMENT»\obj\Debug\Pages\Employees\Stockman\Page_PeriodReport.g.cs
+E:\3й курс\МДК\Проекты\Курсовая\ООО «5ELEMENT»\ООО «5ELEMENT»\obj\Debug\Pages\NoDataBase\Page_NoDataBase.g.cs
+E:\3й курс\МДК\Проекты\Курсовая\ООО «5ELEMENT»\ООО «5ELEMENT»\obj\Debug\Pages\Tables\Page_Menu.g.cs
+E:\3й курс\МДК\Проекты\Курсовая\ООО «5ELEMENT»\ООО «5ELEMENT»\obj\Debug\Pages\Tables\Page_Order_Work.g.cs
+E:\3й курс\МДК\Проекты\Курсовая\ООО «5ELEMENT»\ООО «5ELEMENT»\obj\Debug\Resources\SystemResources\DishTemplate.g.cs
+E:\3й курс\МДК\Проекты\Курсовая\ООО «5ELEMENT»\ООО «5ELEMENT»\obj\Debug\Resources\SystemResources\DishViewTemplate.g.cs
+E:\3й курс\МДК\Проекты\Курсовая\ООО «5ELEMENT»\ООО «5ELEMENT»\obj\Debug\Resources\SystemResources\EmployeeTemplate.g.cs
+E:\3й курс\МДК\Проекты\Курсовая\ООО «5ELEMENT»\ООО «5ELEMENT»\obj\Debug\Resources\SystemResources\IngridientTemplate.g.cs
+E:\3й курс\МДК\Проекты\Курсовая\ООО «5ELEMENT»\ООО «5ELEMENT»\obj\Debug\Resources\SystemResources\IngridientViewTemplate.g.cs
+E:\3й курс\МДК\Проекты\Курсовая\ООО «5ELEMENT»\ООО «5ELEMENT»\obj\Debug\Windows\Window_Admin.g.cs
+E:\3й курс\МДК\Проекты\Курсовая\ООО «5ELEMENT»\ООО «5ELEMENT»\obj\Debug\Windows\Window_Authorization.g.cs
+E:\3й курс\МДК\Проекты\Курсовая\ООО «5ELEMENT»\ООО «5ELEMENT»\obj\Debug\Windows\Window_Stockman.g.cs
+E:\3й курс\МДК\Проекты\Курсовая\ООО «5ELEMENT»\ООО «5ELEMENT»\obj\Debug\Windows\Window_Table.g.cs
+E:\3й курс\МДК\Проекты\Курсовая\ООО «5ELEMENT»\ООО «5ELEMENT»\obj\Debug\App.g.cs
+E:\3й курс\МДК\Проекты\Курсовая\ООО «5ELEMENT»\ООО «5ELEMENT»\obj\Debug\ООО «5ELEMENT»_MarkupCompile.cache
+E:\3й курс\МДК\Проекты\Курсовая\ООО «5ELEMENT»\ООО «5ELEMENT»\obj\Debug\ООО «5ELEMENT»_MarkupCompile.lref
+E:\3й курс\МДК\Проекты\Курсовая\ООО «5ELEMENT»\ООО «5ELEMENT»\obj\Debug\Pages\Authorization\Page_Authorization_Table.baml
+E:\3й курс\МДК\Проекты\Курсовая\ООО «5ELEMENT»\ООО «5ELEMENT»\obj\Debug\Pages\Authorization\Page_Authorization_User.baml
+E:\3й курс\МДК\Проекты\Курсовая\ООО «5ELEMENT»\ООО «5ELEMENT»\obj\Debug\Pages\Employees\Admin\Dishes\Page_Dishes_View.baml
+E:\3й курс\МДК\Проекты\Курсовая\ООО «5ELEMENT»\ООО «5ELEMENT»\obj\Debug\Pages\Employees\Admin\Dishes\Page_Dish_Ingridients.baml
+E:\3й курс\МДК\Проекты\Курсовая\ООО «5ELEMENT»\ООО «5ELEMENT»\obj\Debug\Pages\Employees\Admin\Dishes\Page_Dish_Work.baml
+E:\3й курс\МДК\Проекты\Курсовая\ООО «5ELEMENT»\ООО «5ELEMENT»\obj\Debug\Pages\Employees\Admin\Employees\Page_Employee_View.baml
+E:\3й курс\МДК\Проекты\Курсовая\ООО «5ELEMENT»\ООО «5ELEMENT»\obj\Debug\Pages\Employees\Admin\Employees\Page_Employee_Work.baml
+E:\3й курс\МДК\Проекты\Курсовая\ООО «5ELEMENT»\ООО «5ELEMENT»\obj\Debug\Pages\Employees\Admin\MainMenu\Page_Frames_Template.baml
+E:\3й курс\МДК\Проекты\Курсовая\ООО «5ELEMENT»\ООО «5ELEMENT»\obj\Debug\Pages\Employees\Admin\MainMenu\Page_MainMenu.baml
+E:\3й курс\МДК\Проекты\Курсовая\ООО «5ELEMENT»\ООО «5ELEMENT»\obj\Debug\Pages\Employees\Admin\StopList\Page_StopList_View.baml
+E:\3й курс\МДК\Проекты\Курсовая\ООО «5ELEMENT»\ООО «5ELEMENT»\obj\Debug\Pages\Employees\Stockman\Ingridients\Page_Ingridients_View.baml
+E:\3й курс\МДК\Проекты\Курсовая\ООО «5ELEMENT»\ООО «5ELEMENT»\obj\Debug\Pages\Employees\Stockman\Ingridients\Page_Ingridients_Work.baml
+E:\3й курс\МДК\Проекты\Курсовая\ООО «5ELEMENT»\ООО «5ELEMENT»\obj\Debug\Pages\Employees\Stockman\MainMenu\Page_Frames.baml
+E:\3й курс\МДК\Проекты\Курсовая\ООО «5ELEMENT»\ООО «5ELEMENT»\obj\Debug\Pages\Employees\Stockman\MainMenu\Page_MainMenu.baml
+E:\3й курс\МДК\Проекты\Курсовая\ООО «5ELEMENT»\ООО «5ELEMENT»\obj\Debug\Pages\Employees\Stockman\Page_PeriodReport.baml
+E:\3й курс\МДК\Проекты\Курсовая\ООО «5ELEMENT»\ООО «5ELEMENT»\obj\Debug\Pages\NoDataBase\Page_NoDataBase.baml
+E:\3й курс\МДК\Проекты\Курсовая\ООО «5ELEMENT»\ООО «5ELEMENT»\obj\Debug\Pages\Tables\Page_Menu.baml
+E:\3й курс\МДК\Проекты\Курсовая\ООО «5ELEMENT»\ООО «5ELEMENT»\obj\Debug\Pages\Tables\Page_Order_Work.baml
+E:\3й курс\МДК\Проекты\Курсовая\ООО «5ELEMENT»\ООО «5ELEMENT»\obj\Debug\Resources\SystemResources\DishTemplate.baml
+E:\3й курс\МДК\Проекты\Курсовая\ООО «5ELEMENT»\ООО «5ELEMENT»\obj\Debug\Resources\SystemResources\DishViewTemplate.baml
+E:\3й курс\МДК\Проекты\Курсовая\ООО «5ELEMENT»\ООО «5ELEMENT»\obj\Debug\Resources\SystemResources\EmployeeTemplate.baml
+E:\3й курс\МДК\Проекты\Курсовая\ООО «5ELEMENT»\ООО «5ELEMENT»\obj\Debug\Resources\SystemResources\IngridientTemplate.baml
+E:\3й курс\МДК\Проекты\Курсовая\ООО «5ELEMENT»\ООО «5ELEMENT»\obj\Debug\Resources\SystemResources\IngridientViewTemplate.baml
+E:\3й курс\МДК\Проекты\Курсовая\ООО «5ELEMENT»\ООО «5ELEMENT»\obj\Debug\Styles.baml
+E:\3й курс\МДК\Проекты\Курсовая\ООО «5ELEMENT»\ООО «5ELEMENT»\obj\Debug\Windows\Window_Admin.baml
+E:\3й курс\МДК\Проекты\Курсовая\ООО «5ELEMENT»\ООО «5ELEMENT»\obj\Debug\Windows\Window_Authorization.baml
+E:\3й курс\МДК\Проекты\Курсовая\ООО «5ELEMENT»\ООО «5ELEMENT»\obj\Debug\Windows\Window_Stockman.baml
+E:\3й курс\МДК\Проекты\Курсовая\ООО «5ELEMENT»\ООО «5ELEMENT»\obj\Debug\Windows\Window_Table.baml
+E:\3й курс\МДК\Проекты\Курсовая\ООО «5ELEMENT»\ООО «5ELEMENT»\obj\Debug\ООО «5ELEMENT».g.resources
+E:\3й курс\МДК\Проекты\Курсовая\ООО «5ELEMENT»\ООО «5ELEMENT»\obj\Debug\ООО__5ELEMENT_.Properties.Resources.resources
+E:\3й курс\МДК\Проекты\Курсовая\ООО «5ELEMENT»\ООО «5ELEMENT»\obj\Debug\ООО «5ELEMENT».csproj.GenerateResource.cache
+E:\3й курс\МДК\Проекты\Курсовая\ООО «5ELEMENT»\ООО «5ELEMENT»\obj\Debug\ООО «5ELEMENT».csproj.CoreCompileInputs.cache
+E:\3й курс\МДК\Проекты\Курсовая\ООО «5ELEMENT»\ООО «5ELEMENT»\obj\Debug\ООО «5ELEMENT».exe
+E:\3й курс\МДК\Проекты\Курсовая\ООО «5ELEMENT»\ООО «5ELEMENT»\obj\Debug\ООО «5ELEMENT».pdb
+E:\3й курс\МДК\Проекты\Курсовая\ООО «5ELEMENT»\ООО «5ELEMENT»\obj\Debug\ООО «5ELEMENT».csproj.AssemblyReference.cache
+D:\3й курс\МДК\Проекты\Курсовая\ООО «5ELEMENT»\ООО «5ELEMENT»\bin\Debug\ООО «5ELEMENT».exe.config
+D:\3й курс\МДК\Проекты\Курсовая\ООО «5ELEMENT»\ООО «5ELEMENT»\bin\Debug\ООО «5ELEMENT».exe
+D:\3й курс\МДК\Проекты\Курсовая\ООО «5ELEMENT»\ООО «5ELEMENT»\bin\Debug\ООО «5ELEMENT».pdb
+D:\3й курс\МДК\Проекты\Курсовая\ООО «5ELEMENT»\ООО «5ELEMENT»\obj\Debug\ООО «5ELEMENT».csproj.AssemblyReference.cache
+D:\3й курс\МДК\Проекты\Курсовая\ООО «5ELEMENT»\ООО «5ELEMENT»\obj\Debug\Pages\Authorization\Page_Authorization_Table.g.cs
+D:\3й курс\МДК\Проекты\Курсовая\ООО «5ELEMENT»\ООО «5ELEMENT»\obj\Debug\Pages\Authorization\Page_Authorization_User.g.cs
+D:\3й курс\МДК\Проекты\Курсовая\ООО «5ELEMENT»\ООО «5ELEMENT»\obj\Debug\Pages\Employees\Admin\Dishes\Page_Dishes_View.g.cs
+D:\3й курс\МДК\Проекты\Курсовая\ООО «5ELEMENT»\ООО «5ELEMENT»\obj\Debug\Pages\Employees\Admin\Dishes\Page_Dish_Ingridients.g.cs
+D:\3й курс\МДК\Проекты\Курсовая\ООО «5ELEMENT»\ООО «5ELEMENT»\obj\Debug\Pages\Employees\Admin\Dishes\Page_Dish_Work.g.cs
+D:\3й курс\МДК\Проекты\Курсовая\ООО «5ELEMENT»\ООО «5ELEMENT»\obj\Debug\Pages\Employees\Admin\Employees\Page_Employee_View.g.cs
+D:\3й курс\МДК\Проекты\Курсовая\ООО «5ELEMENT»\ООО «5ELEMENT»\obj\Debug\Pages\Employees\Admin\Employees\Page_Employee_Work.g.cs
+D:\3й курс\МДК\Проекты\Курсовая\ООО «5ELEMENT»\ООО «5ELEMENT»\obj\Debug\Pages\Employees\Admin\MainMenu\Page_Frames_Template.g.cs
+D:\3й курс\МДК\Проекты\Курсовая\ООО «5ELEMENT»\ООО «5ELEMENT»\obj\Debug\Pages\Employees\Admin\MainMenu\Page_MainMenu.g.cs
+D:\3й курс\МДК\Проекты\Курсовая\ООО «5ELEMENT»\ООО «5ELEMENT»\obj\Debug\Pages\Employees\Admin\StopList\Page_StopList_View.g.cs
+D:\3й курс\МДК\Проекты\Курсовая\ООО «5ELEMENT»\ООО «5ELEMENT»\obj\Debug\Pages\Employees\Stockman\Ingridients\Page_Ingridients_View.g.cs
+D:\3й курс\МДК\Проекты\Курсовая\ООО «5ELEMENT»\ООО «5ELEMENT»\obj\Debug\Pages\Employees\Stockman\Ingridients\Page_Ingridients_Work.g.cs
+D:\3й курс\МДК\Проекты\Курсовая\ООО «5ELEMENT»\ООО «5ELEMENT»\obj\Debug\Pages\Employees\Stockman\MainMenu\Page_Frames.g.cs
+D:\3й курс\МДК\Проекты\Курсовая\ООО «5ELEMENT»\ООО «5ELEMENT»\obj\Debug\Pages\Employees\Stockman\MainMenu\Page_MainMenu.g.cs
+D:\3й курс\МДК\Проекты\Курсовая\ООО «5ELEMENT»\ООО «5ELEMENT»\obj\Debug\Pages\Employees\Stockman\Page_PeriodReport.g.cs
+D:\3й курс\МДК\Проекты\Курсовая\ООО «5ELEMENT»\ООО «5ELEMENT»\obj\Debug\Pages\NoDataBase\Page_NoDataBase.g.cs
+D:\3й курс\МДК\Проекты\Курсовая\ООО «5ELEMENT»\ООО «5ELEMENT»\obj\Debug\Pages\Tables\Page_Menu.g.cs
+D:\3й курс\МДК\Проекты\Курсовая\ООО «5ELEMENT»\ООО «5ELEMENT»\obj\Debug\Pages\Tables\Page_Order_Work.g.cs
+D:\3й курс\МДК\Проекты\Курсовая\ООО «5ELEMENT»\ООО «5ELEMENT»\obj\Debug\Resources\SystemResources\DishTemplate.g.cs
+D:\3й курс\МДК\Проекты\Курсовая\ООО «5ELEMENT»\ООО «5ELEMENT»\obj\Debug\Resources\SystemResources\DishViewTemplate.g.cs
+D:\3й курс\МДК\Проекты\Курсовая\ООО «5ELEMENT»\ООО «5ELEMENT»\obj\Debug\Resources\SystemResources\EmployeeTemplate.g.cs
+D:\3й курс\МДК\Проекты\Курсовая\ООО «5ELEMENT»\ООО «5ELEMENT»\obj\Debug\Resources\SystemResources\IngridientTemplate.g.cs
+D:\3й курс\МДК\Проекты\Курсовая\ООО «5ELEMENT»\ООО «5ELEMENT»\obj\Debug\Resources\SystemResources\IngridientViewTemplate.g.cs
+D:\3й курс\МДК\Проекты\Курсовая\ООО «5ELEMENT»\ООО «5ELEMENT»\obj\Debug\Windows\Window_Admin.g.cs
+D:\3й курс\МДК\Проекты\Курсовая\ООО «5ELEMENT»\ООО «5ELEMENT»\obj\Debug\Windows\Window_Authorization.g.cs
+D:\3й курс\МДК\Проекты\Курсовая\ООО «5ELEMENT»\ООО «5ELEMENT»\obj\Debug\Windows\Window_Stockman.g.cs
+D:\3й курс\МДК\Проекты\Курсовая\ООО «5ELEMENT»\ООО «5ELEMENT»\obj\Debug\Windows\Window_Table.g.cs
+D:\3й курс\МДК\Проекты\Курсовая\ООО «5ELEMENT»\ООО «5ELEMENT»\obj\Debug\App.g.cs
+D:\3й курс\МДК\Проекты\Курсовая\ООО «5ELEMENT»\ООО «5ELEMENT»\obj\Debug\ООО «5ELEMENT»_MarkupCompile.cache
+D:\3й курс\МДК\Проекты\Курсовая\ООО «5ELEMENT»\ООО «5ELEMENT»\obj\Debug\ООО «5ELEMENT»_MarkupCompile.lref
+D:\3й курс\МДК\Проекты\Курсовая\ООО «5ELEMENT»\ООО «5ELEMENT»\obj\Debug\Pages\Authorization\Page_Authorization_Table.baml
+D:\3й курс\МДК\Проекты\Курсовая\ООО «5ELEMENT»\ООО «5ELEMENT»\obj\Debug\Pages\Authorization\Page_Authorization_User.baml
+D:\3й курс\МДК\Проекты\Курсовая\ООО «5ELEMENT»\ООО «5ELEMENT»\obj\Debug\Pages\Employees\Admin\Dishes\Page_Dishes_View.baml
+D:\3й курс\МДК\Проекты\Курсовая\ООО «5ELEMENT»\ООО «5ELEMENT»\obj\Debug\Pages\Employees\Admin\Dishes\Page_Dish_Ingridients.baml
+D:\3й курс\МДК\Проекты\Курсовая\ООО «5ELEMENT»\ООО «5ELEMENT»\obj\Debug\Pages\Employees\Admin\Dishes\Page_Dish_Work.baml
+D:\3й курс\МДК\Проекты\Курсовая\ООО «5ELEMENT»\ООО «5ELEMENT»\obj\Debug\Pages\Employees\Admin\Employees\Page_Employee_View.baml
+D:\3й курс\МДК\Проекты\Курсовая\ООО «5ELEMENT»\ООО «5ELEMENT»\obj\Debug\Pages\Employees\Admin\Employees\Page_Employee_Work.baml
+D:\3й курс\МДК\Проекты\Курсовая\ООО «5ELEMENT»\ООО «5ELEMENT»\obj\Debug\Pages\Employees\Admin\MainMenu\Page_Frames_Template.baml
+D:\3й курс\МДК\Проекты\Курсовая\ООО «5ELEMENT»\ООО «5ELEMENT»\obj\Debug\Pages\Employees\Admin\MainMenu\Page_MainMenu.baml
+D:\3й курс\МДК\Проекты\Курсовая\ООО «5ELEMENT»\ООО «5ELEMENT»\obj\Debug\Pages\Employees\Admin\StopList\Page_StopList_View.baml
+D:\3й курс\МДК\Проекты\Курсовая\ООО «5ELEMENT»\ООО «5ELEMENT»\obj\Debug\Pages\Employees\Stockman\Ingridients\Page_Ingridients_View.baml
+D:\3й курс\МДК\Проекты\Курсовая\ООО «5ELEMENT»\ООО «5ELEMENT»\obj\Debug\Pages\Employees\Stockman\Ingridients\Page_Ingridients_Work.baml
+D:\3й курс\МДК\Проекты\Курсовая\ООО «5ELEMENT»\ООО «5ELEMENT»\obj\Debug\Pages\Employees\Stockman\MainMenu\Page_Frames.baml
+D:\3й курс\МДК\Проекты\Курсовая\ООО «5ELEMENT»\ООО «5ELEMENT»\obj\Debug\Pages\Employees\Stockman\MainMenu\Page_MainMenu.baml
+D:\3й курс\МДК\Проекты\Курсовая\ООО «5ELEMENT»\ООО «5ELEMENT»\obj\Debug\Pages\Employees\Stockman\Page_PeriodReport.baml
+D:\3й курс\МДК\Проекты\Курсовая\ООО «5ELEMENT»\ООО «5ELEMENT»\obj\Debug\Pages\NoDataBase\Page_NoDataBase.baml
+D:\3й курс\МДК\Проекты\Курсовая\ООО «5ELEMENT»\ООО «5ELEMENT»\obj\Debug\Pages\Tables\Page_Menu.baml
+D:\3й курс\МДК\Проекты\Курсовая\ООО «5ELEMENT»\ООО «5ELEMENT»\obj\Debug\Pages\Tables\Page_Order_Work.baml
+D:\3й курс\МДК\Проекты\Курсовая\ООО «5ELEMENT»\ООО «5ELEMENT»\obj\Debug\Resources\SystemResources\DishTemplate.baml
+D:\3й курс\МДК\Проекты\Курсовая\ООО «5ELEMENT»\ООО «5ELEMENT»\obj\Debug\Resources\SystemResources\DishViewTemplate.baml
+D:\3й курс\МДК\Проекты\Курсовая\ООО «5ELEMENT»\ООО «5ELEMENT»\obj\Debug\Resources\SystemResources\EmployeeTemplate.baml
+D:\3й курс\МДК\Проекты\Курсовая\ООО «5ELEMENT»\ООО «5ELEMENT»\obj\Debug\Resources\SystemResources\IngridientTemplate.baml
+D:\3й курс\МДК\Проекты\Курсовая\ООО «5ELEMENT»\ООО «5ELEMENT»\obj\Debug\Resources\SystemResources\IngridientViewTemplate.baml
+D:\3й курс\МДК\Проекты\Курсовая\ООО «5ELEMENT»\ООО «5ELEMENT»\obj\Debug\Styles.baml
+D:\3й курс\МДК\Проекты\Курсовая\ООО «5ELEMENT»\ООО «5ELEMENT»\obj\Debug\Windows\Window_Admin.baml
+D:\3й курс\МДК\Проекты\Курсовая\ООО «5ELEMENT»\ООО «5ELEMENT»\obj\Debug\Windows\Window_Authorization.baml
+D:\3й курс\МДК\Проекты\Курсовая\ООО «5ELEMENT»\ООО «5ELEMENT»\obj\Debug\Windows\Window_Stockman.baml
+D:\3й курс\МДК\Проекты\Курсовая\ООО «5ELEMENT»\ООО «5ELEMENT»\obj\Debug\Windows\Window_Table.baml
+D:\3й курс\МДК\Проекты\Курсовая\ООО «5ELEMENT»\ООО «5ELEMENT»\obj\Debug\ООО «5ELEMENT».g.resources
+D:\3й курс\МДК\Проекты\Курсовая\ООО «5ELEMENT»\ООО «5ELEMENT»\obj\Debug\ООО__5ELEMENT_.Properties.Resources.resources
+D:\3й курс\МДК\Проекты\Курсовая\ООО «5ELEMENT»\ООО «5ELEMENT»\obj\Debug\ООО «5ELEMENT».csproj.GenerateResource.cache
+D:\3й курс\МДК\Проекты\Курсовая\ООО «5ELEMENT»\ООО «5ELEMENT»\obj\Debug\ООО «5ELEMENT».csproj.CoreCompileInputs.cache
+D:\3й курс\МДК\Проекты\Курсовая\ООО «5ELEMENT»\ООО «5ELEMENT»\obj\Debug\ООО «5ELEMENT».exe
+D:\3й курс\МДК\Проекты\Курсовая\ООО «5ELEMENT»\ООО «5ELEMENT»\obj\Debug\ООО «5ELEMENT».pdb
+C:\Users\232№5\Desktop\ООО «5ELEMENT»\ООО «5ELEMENT»\bin\Debug\ООО «5ELEMENT».exe.config
+C:\Users\232№5\Desktop\ООО «5ELEMENT»\ООО «5ELEMENT»\bin\Debug\ООО «5ELEMENT».exe
+C:\Users\232№5\Desktop\ООО «5ELEMENT»\ООО «5ELEMENT»\bin\Debug\ООО «5ELEMENT».pdb
+C:\Users\232№5\Desktop\ООО «5ELEMENT»\ООО «5ELEMENT»\obj\Debug\ООО «5ELEMENT».csproj.AssemblyReference.cache
+C:\Users\232№5\Desktop\ООО «5ELEMENT»\ООО «5ELEMENT»\obj\Debug\ООО «5ELEMENT».csproj.SuggestedBindingRedirects.cache
+C:\Users\232№5\Desktop\ООО «5ELEMENT»\ООО «5ELEMENT»\obj\Debug\Pages\Authorization\Page_Authorization_Table.g.cs
+C:\Users\232№5\Desktop\ООО «5ELEMENT»\ООО «5ELEMENT»\obj\Debug\Pages\Authorization\Page_Authorization_User.g.cs
+C:\Users\232№5\Desktop\ООО «5ELEMENT»\ООО «5ELEMENT»\obj\Debug\Pages\Employees\Admin\Dishes\Page_Dishes_View.g.cs
+C:\Users\232№5\Desktop\ООО «5ELEMENT»\ООО «5ELEMENT»\obj\Debug\Pages\Employees\Admin\Dishes\Page_Dish_Ingridients.g.cs
+C:\Users\232№5\Desktop\ООО «5ELEMENT»\ООО «5ELEMENT»\obj\Debug\Pages\Employees\Admin\Dishes\Page_Dish_Work.g.cs
+C:\Users\232№5\Desktop\ООО «5ELEMENT»\ООО «5ELEMENT»\obj\Debug\Pages\Employees\Admin\Employees\Page_Employee_View.g.cs
+C:\Users\232№5\Desktop\ООО «5ELEMENT»\ООО «5ELEMENT»\obj\Debug\Pages\Employees\Admin\Employees\Page_Employee_Work.g.cs
+C:\Users\232№5\Desktop\ООО «5ELEMENT»\ООО «5ELEMENT»\obj\Debug\Pages\Employees\Admin\MainMenu\Page_Frames_Template.g.cs
+C:\Users\232№5\Desktop\ООО «5ELEMENT»\ООО «5ELEMENT»\obj\Debug\Pages\Employees\Admin\MainMenu\Page_MainMenu.g.cs
+C:\Users\232№5\Desktop\ООО «5ELEMENT»\ООО «5ELEMENT»\obj\Debug\Pages\Employees\Admin\StopList\Page_StopList_View.g.cs
+C:\Users\232№5\Desktop\ООО «5ELEMENT»\ООО «5ELEMENT»\obj\Debug\Pages\Employees\Stockman\Ingridients\Page_Ingridients_View.g.cs
+C:\Users\232№5\Desktop\ООО «5ELEMENT»\ООО «5ELEMENT»\obj\Debug\Pages\Employees\Stockman\Ingridients\Page_Ingridients_Work.g.cs
+C:\Users\232№5\Desktop\ООО «5ELEMENT»\ООО «5ELEMENT»\obj\Debug\Pages\Employees\Stockman\MainMenu\Page_Frames.g.cs
+C:\Users\232№5\Desktop\ООО «5ELEMENT»\ООО «5ELEMENT»\obj\Debug\Pages\Employees\Stockman\MainMenu\Page_MainMenu.g.cs
+C:\Users\232№5\Desktop\ООО «5ELEMENT»\ООО «5ELEMENT»\obj\Debug\Pages\Employees\Stockman\Page_PeriodReport.g.cs
+C:\Users\232№5\Desktop\ООО «5ELEMENT»\ООО «5ELEMENT»\obj\Debug\Pages\NoDataBase\Page_NoDataBase.g.cs
+C:\Users\232№5\Desktop\ООО «5ELEMENT»\ООО «5ELEMENT»\obj\Debug\Pages\Tables\Page_Menu.g.cs
+C:\Users\232№5\Desktop\ООО «5ELEMENT»\ООО «5ELEMENT»\obj\Debug\Pages\Tables\Page_Order_Work.g.cs
+C:\Users\232№5\Desktop\ООО «5ELEMENT»\ООО «5ELEMENT»\obj\Debug\Resources\SystemResources\DishTemplate.g.cs
+C:\Users\232№5\Desktop\ООО «5ELEMENT»\ООО «5ELEMENT»\obj\Debug\Resources\SystemResources\DishViewTemplate.g.cs
+C:\Users\232№5\Desktop\ООО «5ELEMENT»\ООО «5ELEMENT»\obj\Debug\Resources\SystemResources\EmployeeTemplate.g.cs
+C:\Users\232№5\Desktop\ООО «5ELEMENT»\ООО «5ELEMENT»\obj\Debug\Resources\SystemResources\IngridientTemplate.g.cs
+C:\Users\232№5\Desktop\ООО «5ELEMENT»\ООО «5ELEMENT»\obj\Debug\Resources\SystemResources\IngridientViewTemplate.g.cs
+C:\Users\232№5\Desktop\ООО «5ELEMENT»\ООО «5ELEMENT»\obj\Debug\Windows\Window_Admin.g.cs
+C:\Users\232№5\Desktop\ООО «5ELEMENT»\ООО «5ELEMENT»\obj\Debug\Windows\Window_Authorization.g.cs
+C:\Users\232№5\Desktop\ООО «5ELEMENT»\ООО «5ELEMENT»\obj\Debug\Windows\Window_Stockman.g.cs
+C:\Users\232№5\Desktop\ООО «5ELEMENT»\ООО «5ELEMENT»\obj\Debug\Windows\Window_Table.g.cs
+C:\Users\232№5\Desktop\ООО «5ELEMENT»\ООО «5ELEMENT»\obj\Debug\App.g.cs
+C:\Users\232№5\Desktop\ООО «5ELEMENT»\ООО «5ELEMENT»\obj\Debug\ООО «5ELEMENT»_MarkupCompile.cache
+C:\Users\232№5\Desktop\ООО «5ELEMENT»\ООО «5ELEMENT»\obj\Debug\ООО «5ELEMENT»_MarkupCompile.lref
+C:\Users\232№5\Desktop\ООО «5ELEMENT»\ООО «5ELEMENT»\obj\Debug\Pages\Authorization\Page_Authorization_Table.baml
+C:\Users\232№5\Desktop\ООО «5ELEMENT»\ООО «5ELEMENT»\obj\Debug\Pages\Authorization\Page_Authorization_User.baml
+C:\Users\232№5\Desktop\ООО «5ELEMENT»\ООО «5ELEMENT»\obj\Debug\Pages\Employees\Admin\Dishes\Page_Dishes_View.baml
+C:\Users\232№5\Desktop\ООО «5ELEMENT»\ООО «5ELEMENT»\obj\Debug\Pages\Employees\Admin\Dishes\Page_Dish_Ingridients.baml
+C:\Users\232№5\Desktop\ООО «5ELEMENT»\ООО «5ELEMENT»\obj\Debug\Pages\Employees\Admin\Dishes\Page_Dish_Work.baml
+C:\Users\232№5\Desktop\ООО «5ELEMENT»\ООО «5ELEMENT»\obj\Debug\Pages\Employees\Admin\Employees\Page_Employee_View.baml
+C:\Users\232№5\Desktop\ООО «5ELEMENT»\ООО «5ELEMENT»\obj\Debug\Pages\Employees\Admin\Employees\Page_Employee_Work.baml
+C:\Users\232№5\Desktop\ООО «5ELEMENT»\ООО «5ELEMENT»\obj\Debug\Pages\Employees\Admin\MainMenu\Page_Frames_Template.baml
+C:\Users\232№5\Desktop\ООО «5ELEMENT»\ООО «5ELEMENT»\obj\Debug\Pages\Employees\Admin\MainMenu\Page_MainMenu.baml
+C:\Users\232№5\Desktop\ООО «5ELEMENT»\ООО «5ELEMENT»\obj\Debug\Pages\Employees\Admin\StopList\Page_StopList_View.baml
+C:\Users\232№5\Desktop\ООО «5ELEMENT»\ООО «5ELEMENT»\obj\Debug\Pages\Employees\Stockman\Ingridients\Page_Ingridients_View.baml
+C:\Users\232№5\Desktop\ООО «5ELEMENT»\ООО «5ELEMENT»\obj\Debug\Pages\Employees\Stockman\Ingridients\Page_Ingridients_Work.baml
+C:\Users\232№5\Desktop\ООО «5ELEMENT»\ООО «5ELEMENT»\obj\Debug\Pages\Employees\Stockman\MainMenu\Page_Frames.baml
+C:\Users\232№5\Desktop\ООО «5ELEMENT»\ООО «5ELEMENT»\obj\Debug\Pages\Employees\Stockman\MainMenu\Page_MainMenu.baml
+C:\Users\232№5\Desktop\ООО «5ELEMENT»\ООО «5ELEMENT»\obj\Debug\Pages\Employees\Stockman\Page_PeriodReport.baml
+C:\Users\232№5\Desktop\ООО «5ELEMENT»\ООО «5ELEMENT»\obj\Debug\Pages\NoDataBase\Page_NoDataBase.baml
+C:\Users\232№5\Desktop\ООО «5ELEMENT»\ООО «5ELEMENT»\obj\Debug\Pages\Tables\Page_Menu.baml
+C:\Users\232№5\Desktop\ООО «5ELEMENT»\ООО «5ELEMENT»\obj\Debug\Pages\Tables\Page_Order_Work.baml
+C:\Users\232№5\Desktop\ООО «5ELEMENT»\ООО «5ELEMENT»\obj\Debug\Resources\SystemResources\DishTemplate.baml
+C:\Users\232№5\Desktop\ООО «5ELEMENT»\ООО «5ELEMENT»\obj\Debug\Resources\SystemResources\DishViewTemplate.baml
+C:\Users\232№5\Desktop\ООО «5ELEMENT»\ООО «5ELEMENT»\obj\Debug\Resources\SystemResources\EmployeeTemplate.baml
+C:\Users\232№5\Desktop\ООО «5ELEMENT»\ООО «5ELEMENT»\obj\Debug\Resources\SystemResources\IngridientTemplate.baml
+C:\Users\232№5\Desktop\ООО «5ELEMENT»\ООО «5ELEMENT»\obj\Debug\Resources\SystemResources\IngridientViewTemplate.baml
+C:\Users\232№5\Desktop\ООО «5ELEMENT»\ООО «5ELEMENT»\obj\Debug\Styles.baml
+C:\Users\232№5\Desktop\ООО «5ELEMENT»\ООО «5ELEMENT»\obj\Debug\Windows\Window_Admin.baml
+C:\Users\232№5\Desktop\ООО «5ELEMENT»\ООО «5ELEMENT»\obj\Debug\Windows\Window_Authorization.baml
+C:\Users\232№5\Desktop\ООО «5ELEMENT»\ООО «5ELEMENT»\obj\Debug\Windows\Window_Stockman.baml
+C:\Users\232№5\Desktop\ООО «5ELEMENT»\ООО «5ELEMENT»\obj\Debug\Windows\Window_Table.baml
+C:\Users\232№5\Desktop\ООО «5ELEMENT»\ООО «5ELEMENT»\obj\Debug\ООО «5ELEMENT».g.resources
+C:\Users\232№5\Desktop\ООО «5ELEMENT»\ООО «5ELEMENT»\obj\Debug\ООО__5ELEMENT_.Properties.Resources.resources
+C:\Users\232№5\Desktop\ООО «5ELEMENT»\ООО «5ELEMENT»\obj\Debug\ООО «5ELEMENT».csproj.GenerateResource.cache
+C:\Users\232№5\Desktop\ООО «5ELEMENT»\ООО «5ELEMENT»\obj\Debug\ООО «5ELEMENT».csproj.CoreCompileInputs.cache
+C:\Users\232№5\Desktop\ООО «5ELEMENT»\ООО «5ELEMENT»\obj\Debug\ООО «5ELEMENT».exe
+C:\Users\232№5\Desktop\ООО «5ELEMENT»\ООО «5ELEMENT»\obj\Debug\ООО «5ELEMENT».pdb
+D:\3й курс\МДК\Проекты\Курсовая\ООО «5ELEMENT»\ООО «5ELEMENT»\obj\Debug\ООО «5ELEMENT».csproj.SuggestedBindingRedirects.cache
+D:\3й курс\МДК\Проекты\Курсовая\ООО «5ELEMENT»\ООО «5ELEMENT»\obj\Debug\Pages\Employees\Admin\BackUp\Page_BackUp.g.cs
+D:\3й курс\МДК\Проекты\Курсовая\ООО «5ELEMENT»\ООО «5ELEMENT»\obj\Debug\Pages\Employees\Admin\BackUp\Page_BackUp.baml

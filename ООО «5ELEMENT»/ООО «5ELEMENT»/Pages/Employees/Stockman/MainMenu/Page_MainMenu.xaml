@@ -1,0 +1,29 @@
+﻿<Page x:Class="ООО__5ELEMENT_.Pages.Employees.Stockman.MainMenu.Page_MainMenu"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:ООО__5ELEMENT_.Pages.Employees.Stockman.MainMenu"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="Page_MainMenu">
+
+    <Grid>
+        <Grid>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+            </Grid.ColumnDefinitions>
+            <Button x:Name="Button_Ingridients" Height="200" Width="300" VerticalAlignment="Top" Grid.Column="0" FontFamily="Comic Sans MS" FontSize="30" Click="Button_Ingridients_Click">
+                <Button.Background>
+                    <ImageBrush ImageSource="/ООО «5ELEMENT»;component/Resources/SystemResources/Ingridients.png" Stretch="Uniform"/>
+                </Button.Background>
+            </Button>
+            <Button x:Name="Button_PeriodReport" Height="200" Width="300" VerticalAlignment="Bottom" Grid.Column="2" FontFamily="Comic Sans MS" FontSize="30" Click="Button_PeriodReport_Click">
+                <Button.Background>
+                    <ImageBrush ImageSource="/ООО «5ELEMENT»;component/Resources/SystemResources/Stoplist.png" Stretch="Uniform"/>
+                </Button.Background>
+            </Button>
+        </Grid>
+    </Grid>
+</Page>

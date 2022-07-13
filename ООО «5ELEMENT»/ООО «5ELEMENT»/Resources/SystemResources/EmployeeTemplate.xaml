@@ -1,0 +1,36 @@
+﻿<UserControl x:Class="ООО__5ELEMENT_.Resources.SystemResources.EmployeeTemplate"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:ООО__5ELEMENT_.Resources.SystemResources"
+             mc:Ignorable="d" 
+             d:DesignHeight="200" d:DesignWidth="590">
+    <Grid HorizontalAlignment="Left" Width="590" Height="200" VerticalAlignment="Top">
+        <Grid Background="#FF5CE1E6" Height="190" Margin="5">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="150*"/>
+                <ColumnDefinition Width="300*"/>
+                <ColumnDefinition Width="150*"/>
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition/>
+                <RowDefinition/>
+            </Grid.RowDefinitions>
+            <TextBlock x:Name="TextBlock_FIO" Text="ФИО сотрудника" FontFamily="Comic Sans MS" FontSize="15" Foreground="OrangeRed" Grid.Column="0" HorizontalAlignment="Center" TextWrapping="Wrap" VerticalAlignment="Top" TextAlignment="Center"/>
+            <TextBlock x:Name="TextBlock_BirthDate" Text="Дата рождения" FontFamily="Comic Sans MS" FontSize="20" Foreground="OrangeRed" Grid.Column="0" Grid.Row="1" HorizontalAlignment="Center" TextWrapping="Wrap" VerticalAlignment="Bottom" TextAlignment="Center"/>
+
+            <TextBlock x:Name="TextBlock_Phone" Text="Телефон сотрудника" FontFamily="Comic Sans MS" FontSize="25" Foreground="OrangeRed" Grid.Column="1" HorizontalAlignment="Left" TextWrapping="Wrap" TextAlignment="Left" VerticalAlignment="Top"/>
+            <TextBlock x:Name="TextBlock_Passport" Text="Пасспорт сотрудника" FontFamily="Comic Sans MS" FontSize="25" Foreground="OrangeRed" Grid.Column="1" Grid.Row="1" HorizontalAlignment="Left" TextWrapping="Wrap" TextAlignment="Left" VerticalAlignment="Bottom"/>
+
+            <TextBlock x:Name="TextBlock_Role" Text="Роль сотрудника" FontFamily="Comic Sans MS" FontSize="15" Foreground="OrangeRed" Grid.Column="3" HorizontalAlignment="Center" TextWrapping="Wrap" VerticalAlignment="Bottom" TextAlignment="Center"/>
+
+            <Label Grid.Row="0" Grid.Column="0" MouseDoubleClick="Label_MouseDoubleClick"/>
+            <Label Grid.Row="0" Grid.Column="1" MouseDoubleClick="Label_MouseDoubleClick"/>
+            <Label Grid.Row="0" Grid.Column="2" MouseDoubleClick="Label_MouseDoubleClick"/>
+            <Label Grid.Row="1" Grid.Column="0" MouseDoubleClick="Label_MouseDoubleClick"/>
+            <Label Grid.Row="1" Grid.Column="1" MouseDoubleClick="Label_MouseDoubleClick"/>
+            <Label Grid.Row="1" Grid.Column="2" MouseDoubleClick="Label_MouseDoubleClick"/>
+        </Grid>
+    </Grid>
+</UserControl>

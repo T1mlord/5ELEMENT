@@ -1,0 +1,41 @@
+﻿<Page x:Class="ООО__5ELEMENT_.Pages.Authorization.Page_Authorization_User"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:ООО__5ELEMENT_.Pages.Authorization"
+      mc:Ignorable="d" 
+      d:DesignHeight="350" d:DesignWidth="794"
+      Title="Page_Authorization_User">
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition Height="120"/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        <StackPanel Grid.Row="0">
+            <Image Width="400" Height="110" Source="/ООО «5ELEMENT»;component/Resources/SystemResources/80274621-31e6-4116-aeca-2dcb57f7a94b-PhotoRoom (1).png"/>
+        </StackPanel>
+        <StackPanel Grid.Row="1">
+            <StackPanel Orientation="Horizontal" Width="400">
+                <TextBlock Text="Логин" Width="90" FontSize="20" FontFamily="Comic Sans MS" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+
+                <TextBox x:Name="TextBox_Login" Height="30" Width="300" Background="Cyan" FontSize="20" FontFamily="Comic Sans MS"/>
+            </StackPanel>
+            <StackPanel Height="10"/>
+            <StackPanel Orientation="Horizontal" Width="400">
+                <TextBlock Text="Пароль" Width="90" FontSize="20" FontFamily="Comic Sans MS" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                <TextBox x:Name="TextBox_Password" Height="30" Width="300" Background="Cyan" FontSize="20" FontFamily="Comic Sans MS"/>
+            </StackPanel>
+            <StackPanel Height="10"/>
+            <StackPanel HorizontalAlignment="Center">
+                <StackPanel Orientation="Horizontal">
+                    <TextBlock Width="70"/>
+                    <Button x:Name="Button_Auth" Height="30" Background="#FFC7D0D9" Content="Войти" FontSize="20" FontFamily="Comic Sans MS" Click="Button_Auth_Click" HorizontalAlignment="Center" Width="150"/>
+                </StackPanel>
+            </StackPanel>
+        </StackPanel>
+        <Button x:Name="Button_ChangePage" Grid.Row="3" Width="150" Height="30" HorizontalAlignment="Right" Background="Cyan" Content="Авторизовать рабочее место" FontSize="10" FontFamily="Comic Sans MS" VerticalAlignment="Bottom" Click="Button_ChangePage_Click"/>
+    </Grid>
+</Page>

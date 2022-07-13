@@ -1,0 +1,44 @@
+﻿<Page x:Class="ООО__5ELEMENT_.Pages.Employees.Stockman.Ingridients.Page_Ingridients_View"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:ООО__5ELEMENT_.Pages.Employees.Stockman.Ingridients"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="600"
+      Title="Page_Ingridients_View">
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="40"/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        <StackPanel>
+            <StackPanel Orientation="Horizontal">
+                <TextBlock Text="Поиск:" FontFamily="Comic Sans MS" FontSize="25"  Foreground="White"/>
+                <TextBox Width="170" Height="30" x:Name="TextBox_Search" FontFamily="Comic Sans MS" FontSize="15" TextChanged="TextBox_Search_TextChanged"/>
+                <TextBlock Text="Фильтрация:" FontFamily="Comic Sans MS" FontSize="25" Foreground="White"/>
+                <ComboBox x:Name="ComboBox_Filtration" Width="150" FontFamily="Comic Sans MS" FontSize="15" DropDownClosed="ComboBox_Filtration_DropDownClosed">
+                    <ComboBoxItem x:Name="ComboBox_Item_All" Selected="ComboBox_Item_All_Selected">
+                        <TextBlock Text="Любое"/>
+                    </ComboBoxItem>
+                    <ComboBoxItem x:Name="ComboBox_Item_InStock" Selected="ComboBox_Item_InStock_Selected">
+                        <TextBlock Text="В наличии"/>
+                    </ComboBoxItem>
+                    <ComboBoxItem x:Name="ComboBox_Item_NotInStock" Selected="ComboBox_Item_NotInStock_Selected">
+                        <TextBlock Text="Нет в наличии"/>
+                    </ComboBoxItem>
+                </ComboBox>
+                <StackPanel>
+                    <RadioButton x:Name="RadioButtonAsc" Content="/\" FontFamily="Comic Sans MS" FontSize="15" Checked="RadioButtonAsc_Checked"/>
+                    <RadioButton x:Name="RadioButtonDesc" Content="\/" FontFamily="Comic Sans MS" FontSize="15" Checked="RadioButtonDesc_Checked"/>
+                </StackPanel>
+
+            </StackPanel>
+        </StackPanel>
+
+        <ScrollViewer Grid.Row="1" VerticalScrollBarVisibility="Visible" HorizontalScrollBarVisibility="Disabled">
+            <StackPanel x:Name="StackPanel_Ingridients"/>
+        </ScrollViewer>
+    </Grid>
+</Page>
